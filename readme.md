@@ -79,4 +79,4 @@ Follow these steps to run the project in your local system:
 <!-- CONTACT -->
 ## Contact
 
-Priyanka - priyanka.engage@gmail.com
+Priyanka - priyanka95883@gmail.com
